@@ -35,12 +35,14 @@ To improve clarity, column names were updated to more intuitive names.
 - Country: Removed rows where the Country column was empty.
 
 ### 5. Creating New Columns
-- Grouped ‘Type’ column into two categories:
-o	Movie
-o	TV Show
+- Grouped ‘Type’ column into two categories: Movie and TV Show
+<img width="469" alt="Image" src="https://github.com/user-attachments/assets/0a291d7f-ea54-435c-b553-d62c2c8d4025" />
+
 - Extracted the First Genre from the Genres column using DAX:
-Genre = LEFT(Listings[Genres], SEARCH(",", Listings[Genres], , LEN(Listings[Genres]) + 1) - 1)
+<img width="172" alt="Image" src="https://github.com/user-attachments/assets/0c5d446a-4fb9-42bb-bf34-6a4e22bd8240" />
+
 - Created Rating Groups (0-9) for better categorization.
+<img width="253" alt="Image" src="https://github.com/user-attachments/assets/a6b94818-899b-4724-99a9-e28b7fcab222" />
 
 ## Power BI Dashboard Features
 
