@@ -39,11 +39,11 @@ To improve clarity, column names were updated to more intuitive names.
 - Grouped ‘Type’ column into two categories: Movie and TV Show
 - Created Rating Groups (0-9) for better categorization
 
-<img width="472" alt="Image" src="https://github.com/user-attachments/assets/01515e62-9d5f-471c-ba08-d38a2780caaa" />
+- <img width="472" alt="Image" src="https://github.com/user-attachments/assets/01515e62-9d5f-471c-ba08-d38a2780caaa" />
 
-<img width="173" alt="Image" src="https://github.com/user-attachments/assets/fd3e1374-fab6-4d9b-a86d-d56c2098a392" />
+- <img width="173" alt="Image" src="https://github.com/user-attachments/assets/fd3e1374-fab6-4d9b-a86d-d56c2098a392" />
 
-<img width="280" alt="Image" src="https://github.com/user-attachments/assets/3a358c33-3709-4d13-831d-122c4b25582d" />
+- <img width="280" alt="Image" src="https://github.com/user-attachments/assets/3a358c33-3709-4d13-831d-122c4b25582d" />
 
 ## Power BI Dashboard Features
 
