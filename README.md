@@ -76,6 +76,12 @@ Title, Poster Image, Rating, Plot, Number of Votes
 ### 7. Table
 - Displays:
   Country, Total number of titles, Average Rating, Total number of Votes, Total Votes per titles
+  
+### DAX Measures Used
+
+
+
+## Netflix Dashboard
 
 ![Image](https://github.com/user-attachments/assets/f1bd2791-37a6-485e-9c15-401a659fa0c9)
 
