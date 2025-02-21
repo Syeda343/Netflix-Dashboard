@@ -75,6 +75,8 @@ Title, Poster Image, Rating, Plot, Number of Votes
 - Displays:
   Country, Total number of titles, Average Rating, Total number of Votes, Total Votes per titles
 
+![Image](https://github.com/user-attachments/assets/f1bd2791-37a6-485e-9c15-401a659fa0c9)
+
 ## How to Use This Repository
 - 1.	Download the Dataset from Kaggle.
 - 2.	Load the dataset into Power BI.
