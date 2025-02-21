@@ -106,6 +106,13 @@ Title, Poster Image, Rating, Plot, Number of Votes
 
 - <img width="467" alt="Image" src="https://github.com/user-attachments/assets/f7f93255-de9e-4dee-af79-29b1e35f5b63" />
 
+- <img width="280" alt="Image" src="https://github.com/user-attachments/assets/66853161-8b72-4dc1-aca9-0e1f59c00025" />
+
+- <img width="272" alt="Image" src="https://github.com/user-attachments/assets/6b4469ee-6e5e-4a92-abc0-a8ecf1d9f89d" />
+
+- <img width="245" alt="Image" src="https://github.com/user-attachments/assets/d47ed395-8f2b-4619-badf-0c3991ae5420" />
+
+
 
 ## Netflix Dashboard
 
