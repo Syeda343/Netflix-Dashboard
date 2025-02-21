@@ -66,6 +66,8 @@ Displays key performance indicators (KPIs):
 - Allows dynamic selection to show Ratings and Votes using Parameters.
 - Helps visualize distribution across countries and genres.
 
+<img width="415" alt="Image" src="https://github.com/user-attachments/assets/e8d945a4-4b35-4428-8501-0723440fa339" />
+
 ### 6. Table with Images
 - Displays:
 Title, Poster Image, Rating, Plot, Number of Votes
